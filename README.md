@@ -238,7 +238,7 @@ fight-judge/
 
 ```bibtex
 @misc{faisal2025mmafighter,
-  author    = {Hasan Faisal},
+  author    = {Hasan Faisal, Talha Rehman},
   title     = {MMA Fighter Detection Dataset},
   year      = {2025},
   publisher = {Mendeley Data},
