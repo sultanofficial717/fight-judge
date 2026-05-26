@@ -227,6 +227,13 @@ fight-judge/
 
 ---
 
+## Contributors
+
+- Talha Rehman
+- Hassan Faisal
+
+---
+
 ## Citation
 
 ```bibtex
@@ -239,6 +246,9 @@ fight-judge/
   doi       = {10.17632/c456bnk8bm.1}
 }
 ```
+## Contributor
+Talha Rehman
+Hasan Faisal
 
 ## License
 
